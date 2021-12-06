@@ -4,8 +4,8 @@
 - :books: I am currently a PhD candidate 
 - :apple: Accredited practicing dietitian (APD)
 - :sunny: Located in Sydney, Australia
-- :muscle: I am passionate about understanding what data tells us to be to solve problems and generate solutions 
-- :grin: I've spent hours learning **SQL**, **Python** and **R** and used these skills to help answer health problems as part of my PhD. 
+- :muscle: I am passionate about understanding what data tells us so we can solve problems and generate solutions 
+- :grin: I've spent hours learning **SQL**, **Python** and **R** and used these skills to help answer health questions as part of my PhD. 
 
 ### You can find me...
 - :blossom: with my house plants 
